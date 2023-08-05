@@ -6,8 +6,18 @@ what this entire piece of trash does is basically a window with a ton of options
 
 just be aware this doesnt install updated versions of software so after installing i highly recommmend updating the software you got (especially browsers).
 
+### stuff needed
+
+- python 3.11 installed (best to get it from microsoft store. idk why but the ms store version worked for me.)
+
 ### installation
 just download and run `Install3script.bat` from the releases tab :fr:
+
+### how to run this garbage
+
+wait for `Install3script.bat` finishes downloading.
+
+once its done open up PowerShell and type "python3 C:\3script\3script\script.py" or "python C:\3script\3script\script.py"
 
 ##### screenshot
 
