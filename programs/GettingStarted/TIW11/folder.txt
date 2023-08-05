@@ -1,1 +1,4 @@
-hi
+This folder should contain:
+
+- ThisIsWin11.exe
+- data
