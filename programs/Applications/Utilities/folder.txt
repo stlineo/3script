@@ -1,0 +1,7 @@
+This folder should contain: 
+
+- A 7zip setup EXE
+- A Notepad++ setup EXE
+- A Python 3.11 setup EXE
+- A Visual Studio Code setup EXE
+- A WinRar setup EXE
