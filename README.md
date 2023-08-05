@@ -4,6 +4,8 @@ this is basically just a 622 megabyte folder that includes a python script and a
 
 what this entire piece of trash does is basically a window with a ton of options to choose from including installing browsers, use a debloating program, do the yarr me matey (pirating) your windows activation and some registry stuff you can change
 
+just be aware this doesnt install updated versions of software so after installing i highly recommmend updating the software you got (especially browsers).
+
 ### installation
 just download and run `Install3script.bat` from the releases tab :fr:
 
