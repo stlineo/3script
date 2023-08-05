@@ -1,1 +1,13 @@
-hi
+This folder should contain: 
+
+- A Brave Browser setup EXE
+- A Chrome Browser setup EXE
+- A Firefox Browser setup EXE
+- A Waterfox Browser setup EXE
+- A Internet Finder Browser setup EXE
+- A LibreWolf Browser setup EXE
+- A Maxthon Browser setup EXE
+- A OperaGX Browser setup EXE
+- A Opera Browser setup EXE
+- A Ungoogled-Chromium Browser setup EXE
+- A Vivaldi Browser setup EXE
