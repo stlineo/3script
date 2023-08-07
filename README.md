@@ -1,4 +1,4 @@
-######if you're wondering why the code has a `folder.txt` file its because github wont let me upload installers.
+#####if you're wondering why the code has a `folder.txt` file its because github wont let me upload installers.
 
 # 3script
 a dumb script i started making at 1 am because i got extremely bored.
