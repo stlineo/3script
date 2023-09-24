@@ -1,7 +1,7 @@
 ###### if you're wondering why the code has a `folder.txt` file its because github wont let me upload installers.
 
 # 3script
-a dumb script i started making at 1 am because i got extremely bored.
+a dumb script i started making because i got extremely bored.
 this is basically just a 622 megabyte folder that includes a python script and a bunch of installers for the different options listed in the program.
 
 what this entire piece of trash does is basically a window with a ton of options to choose from including installing browsers, use a debloating program, do the yarr me matey (pirating) your windows activation and some registry stuff you can change
